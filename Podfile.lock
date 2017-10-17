@@ -1,0 +1,24 @@
+PODS:
+  - Kingfisher (4.1.1)
+  - Result (3.2.4)
+  - SugarRecord/CoreData (3.1.2):
+    - Result (~> 3.0)
+  - SugarRecord/CoreData+iCloud (3.1.2):
+    - Result (~> 3.0)
+  - SwiftyJSON (3.1.4)
+
+DEPENDENCIES:
+  - Kingfisher (~> 4.0)
+  - SugarRecord/CoreData
+  - SugarRecord/CoreData+iCloud
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Kingfisher: 6793a473357b5dbee42b0068ef203fe8325f259e
+  Result: d2d07204ce72856f1fd9130bbe42c35a7b0fea10
+  SugarRecord: be6aa5c18b4a4dec0de4c1f49fc61c85eabb5328
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+
+PODFILE CHECKSUM: b44eee32cd8971d37f479b8b96318b3fc445de54
+
+COCOAPODS: 1.3.1
